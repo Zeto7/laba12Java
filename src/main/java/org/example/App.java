@@ -5,6 +5,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello Gleb!" );
+        System.out.println("DEBG");
         Tester.staticMethod();
     }
 }
