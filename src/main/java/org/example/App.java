@@ -7,5 +7,6 @@ public class App
         System.out.println( "Hello Gleb!" );
         System.out.println("DEBG");
         Tester.staticMethod();
+        System.out.println("LABA 12");
     }
 }
